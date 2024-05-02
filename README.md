@@ -1,3 +1,3 @@
 # ML-projects
-The data set i worked is Yulu bike rentals
+My pet projects
 
